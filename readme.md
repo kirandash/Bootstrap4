@@ -13,3 +13,9 @@ css folder - .map files helps us point to sass files in development mode
 .reboot files - resets browser specific styles
 
 js folder - bootstrap.bundle file contains = bootstrap code + popper js
+
+### 1.2 Template Creation
+Start with starter template
+https://getbootstrap.com/docs/4.3/getting-started/introduction/
+Development mode: Use local css, js files for libraries.
+Prod mode: Use cdn
